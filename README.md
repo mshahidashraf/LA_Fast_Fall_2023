@@ -1,4 +1,5 @@
 # Weekly Course Outline 
+<a href="Course outline_Linear Algebra.pdf" download="Course outline_Linear Algebra.pdf">download here</a>
 | Week         | Contents/Topics | Tools | Exercises/Questions |
 |--------------|--------------|:-----:|-----------:|
 |1| Introduction, System of Linear equations,Elementary row operation||1.1 (1-20)|
