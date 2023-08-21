@@ -1,6 +1,5 @@
-# LA_Fast_Fall_2023
 # Weekly Course Outline 
-| Week         | Contents/Topics | # Tools |# Exercises/Questions |
+| Week         | Contents/Topics | Tools | Exercises/Questions |
 |--------------|--------------|:-----:|-----------:|
 |1| Introduction, System of Linear equations,Elementary row operation||1.1 (1-20)|
 |2| Solving system of Linear equations:Gaussian Elimination and Gauss Jordan methods Matrix Operations Elementary Matrices, Methods for finding Inverse|A1| 1.2 (1-26) 1.3 (1-20) 1.5 (1-6, 11-18)|
