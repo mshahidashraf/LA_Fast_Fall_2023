@@ -1,4 +1,5 @@
 # Weekly Course Outline 
+Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;" target="_blank">shahid.ashraf@nu.edu.pk</a></p>
 <a href="Course outline_Linear Algebra.pdf" download="Course outline_Linear Algebra.pdf">download here</a>
 | Week         | Contents/Topics | Tools | Exercises/Questions |
 |--------------|--------------|:-----:|-----------:|
