@@ -1,5 +1,5 @@
 # LA_Fast_Fall_2023
-# Check for update over here 
+# Weekly Course Outline 
 | Week         | Contents/Topics | # Tools |# Exercises/Questions |
 |--------------|--------------|:-----:|-----------:|
 |1| Introduction, System of Linear equations,Elementary row operation||1.1 (1-20)|
