@@ -1,3 +1,5 @@
 title: Shahid Ashraf
-description: [A short description of your site's purpose]
+layout: page
+description: Very good site
 theme: jekyll-theme-minimal
+markdown: GFM
