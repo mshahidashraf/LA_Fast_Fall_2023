@@ -1,6 +1,13 @@
 # Weekly Course Outline 
 Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;" target="_blank">shahid.ashraf@nu.edu.pk</a></p>
 <a href="Course outline_Linear Algebra.pdf" download="Course outline_Linear Algebra.pdf">download  Course Outline in pdf here</a>
+## Assessment Instruments with Weights (homework, quizzes, midterms, final, programming assignments, lab work, etc.)
+| Assessment         | Weights | 
+|--------------|--------------|
+| Quizzes + Assignments                  | 20% |
+|Mid-term Exams                          | 30% |
+|End-term Exam (Final)                   | 50% |
+
 | Week         | Contents/Topics | Tools | Exercises/Questions |
 |--------------|--------------|:-----:|-----------:|
 |1| Introduction, System of Linear equations,Elementary row operation||1.1 (1-20)|
